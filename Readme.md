@@ -1,6 +1,6 @@
 Hello world!
 
-I study in Netilogia
+I study in Netology
 
 09/03/2023
 
